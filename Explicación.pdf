@@ -1,0 +1,13 @@
+Búsqueda de rutas: Permite a los usuarios buscar la mejor ruta para viajar desde un punto de origen a un punto de destino. La aplicación puede utilizar algoritmos de enrutamiento para determinar la ruta óptima basada en criterios como distancia, duración, costos, entre otros.
+
+Información de transporte público: Proporciona datos en tiempo real sobre horarios, rutas y paradas de transporte público, como autobuses, trenes o metro. Los usuarios pueden consultar la disponibilidad de servicios, horarios de llegada y planificar su viaje en función de esta información.
+
+Notificaciones y alertas: Envía notificaciones y alertas a los usuarios sobre cambios en las rutas, retrasos en el transporte público o cualquier otra información relevante que pueda afectar sus viajes. Esto ayuda a mantener a los usuarios informados y les permite tomar decisiones informadas sobre sus desplazamientos.
+
+Integración de mapas: Incorpora mapas interactivos que muestran las rutas recomendadas, paradas de transporte público y otros puntos de interés relacionados con el tránsito. Los usuarios pueden visualizar las rutas en un mapa y obtener indicaciones paso a paso para facilitar la navegación.
+
+Información sobre tráfico: Proporciona información actualizada sobre el estado del tráfico, como congestiones, accidentes u obras en las vías. Esto permite a los usuarios planificar sus rutas teniendo en cuenta las condiciones actuales del tráfico y evitar posibles demoras.
+
+Personalización de preferencias: Permite a los usuarios personalizar sus preferencias de viaje, como el modo de transporte preferido, horarios de viaje o prioridades (por ejemplo, minimizar el tiempo de viaje o minimizar los cambios de transporte). La aplicación puede adaptar las rutas recomendadas en función de estas preferencias.
+
+Compartir viajes y comentarios: Permite a los usuarios compartir información sobre sus viajes, como reseñas de rutas, comentarios sobre el transporte público o consejos útiles para otros usuarios. Esto fomenta la colaboración y la creación de una comunidad de usuarios interesados en el tránsito.
